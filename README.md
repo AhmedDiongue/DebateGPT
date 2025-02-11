@@ -1,2 +1,2 @@
 # DebateGPT
-dsds Stateless LLM in deep debate with itself.
+Stateless LLM having a deep debate with itself.
